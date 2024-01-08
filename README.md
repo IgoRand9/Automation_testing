@@ -4,6 +4,6 @@
 
 Base class - class in which the driver is stored, universal methods
 
-Main page, client information page, finish oder, cart page - Page classes contain locators, methods for checking clickability, entering information, and various actions on pages
+Main page, client information page, finish oder, cart page - page classes contain locators, methods for checking clickability, entering information, and various actions on pages
 
 Test buy product - basic test with the purchase of goods
