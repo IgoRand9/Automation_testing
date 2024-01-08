@@ -2,8 +2,8 @@
 ![Безымянный](https://github.com/IgoRand9/Automation_testing/assets/123418246/bb99abf6-ea7f-4517-9e82-4763bcb37051)
 
 
-base class - базовый класс в котором хранится драйвер, универсальные методы
+Base class - class in which the driver is stored, universal methods
 
-main page, client information page, finish oder, cart page - классы страниц, содержат локаторы, методы проверки кликабельности, ввода информации, различных действий на страницах
+Main page, client information page, finish oder, cart page - Page classes contain locators, methods for checking clickability, entering information, and various actions on pages
 
-test buy product - основной тест с покупкой товара
+Test buy product - basic test with the purchase of goods
